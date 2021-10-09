@@ -1,0 +1,10 @@
+int binary_to_decimal( int );
+int decimal_to_Binary( int );
+int sumOfPrevK(int , int );
+int sketch(int );
+int getSum(int n);
+int power(int base, int a);
+int multiplyNumbers(int n);
+int evaluate( long int n, long int x);
+int square( int n);
+int  mathematical(int n ,int a);
